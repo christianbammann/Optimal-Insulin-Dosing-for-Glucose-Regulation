@@ -4,7 +4,7 @@ This project explores how convex optimization techniques can be used to determin
 
 ---
 
-## Authors
+## Author
 - **Christian Bammann** –  sole contributor of this project, including problem conceptualization, system modeling, optimization problem formulation, and MATLAB simulations.  
 
 ---
